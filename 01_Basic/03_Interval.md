@@ -2,7 +2,7 @@
 
 ![](../images/basic/interval_wikipedia.png)
 
-摘自[wikipedia](https://en.wikipedia.org/wiki/Interval_(music))
+摘自wikipedia: https://en.wikipedia.org/wiki/Interval_(music)
 
 ![](../../images/guitar/interval_book.png)
 
