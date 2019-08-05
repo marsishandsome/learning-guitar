@@ -6,22 +6,22 @@
 
 ![](../../images/guitar/interval_book.png)
 
-| 半音数 | Minor/major/perfect | 简称 | 例子    | Augmented/diminished | 简称 | 例子     |
-| ------ | ------------------- | ---- | ------- | -------------------- | ---- | -------- |
-| 0      | Perfect unision     | P1   | C-C     | Diminished second    | d2   | C-Dbb    |
-| 1      | Minor second        | m2   | C-Db    | Augmented unision    | A1   | C-C#     |
-| 2      | Major second        | M2   | C-D     | Diminished third     | d3   | C-Ebb    |
-| 3      | Minor third         | m3   | C-Eb    | Augmented second     | A2   | C-D#     |
-| 4      | Major third         | M3   | C-E     | Diminished fourth    | d4   | C-Fb     |
-| 5      | Perfect fourth      | P4   | C-F     | Augmented third      | A3   | C-E#     |
-| 6      |                     |      |         | Diminished fifth     | d5   | C-Gb     |
-| 6      |                     |      |         | Augmented fourth     | A4   | C-F#     |
-| 7      | Perfect fifth       | P5   | C-G     | Diminished sixth     | d6   | C-Ab     |
-| 8      | Minor sixth         | m6   | C-Ab    | Augmented fifth      | A5   | C-G#     |
-| 9      | Major sixth         | M6   | C-A     | Diminished seventh   | d7   | C-highBb |
-| 10     | Minor seven         | m7   | C-Bb    | Augmented sixth      | A6   | C-highA# |
-| 11     | Major seven         | M7   | C-B     | Diminished octave    | d8   | C-highCb |
-| 12     | Perfect octave      | P8   | C-highC | Augmented seventh    | A7   | C-highB# |
+| 半音数 | Minor/major/perfect | 简称 | 例子 | Augmented/diminished | 简称 | 例子  |
+| ------ | ------------------- | ---- | ---- | -------------------- | ---- | ----- |
+| 0      | Perfect unision     | P1   | C-C  | Diminished second    | d2   | C-Dbb |
+| 1      | Minor second        | m2   | C-Db | Augmented unision    | A1   | C-C#  |
+| 2      | Major second        | M2   | C-D  | Diminished third     | d3   | C-Ebb |
+| 3      | Minor third         | m3   | C-Eb | Augmented second     | A2   | C-D#  |
+| 4      | Major third         | M3   | C-E  | Diminished fourth    | d4   | C-Fb  |
+| 5      | Perfect fourth      | P4   | C-F  | Augmented third      | A3   | C-E#  |
+| 6      |                     |      |      | Diminished fifth     | d5   | C-Gb  |
+| 6      |                     |      |      | Augmented fourth     | A4   | C-F#  |
+| 7      | Perfect fifth       | P5   | C-G  | Diminished sixth     | d6   | C-Ab  |
+| 8      | Minor sixth         | m6   | C-Ab | Augmented fifth      | A5   | C-G#  |
+| 9      | Major sixth         | M6   | C-A  | Diminished seventh   | d7   | C-Bb  |
+| 10     | Minor seven         | m7   | C-Bb | Augmented sixth      | A6   | C-A#  |
+| 11     | Major seven         | M7   | C-B  | Diminished octave    | d8   | C-Cb  |
+| 12     | Perfect octave      | P8   | C-C  | Augmented seventh    | A7   | C-B#  |
 
 
 | 半音数 | 大调 | 小调 |
@@ -40,7 +40,7 @@
 | 11     | B    |      |
 | 12     | C    | A    |
 
-| 差多少半音 | C   | D   | E   | F   | G   | A   | B   | highC |
+| 差多少半音 | C   | D   | E   | F   | G   | A   | B   | C |
 | ---------- | --- | --- | --- | --- | --- | --- | --- | ----- |
 | C          | 0   | 2   | 4   | 5   | 7   | 9   | 11  | 12    |
 | D          |     | 0   | 2   | 3   | 5   | 7   | 9   | 10    |
