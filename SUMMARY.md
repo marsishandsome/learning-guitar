@@ -6,3 +6,4 @@
    * [大调音阶与小调音阶](01_Basic/02_Major_and_Minor_Scale.md)
    * [音程](01_Basic/03_Interval.md)
    * [和弦](01_Basic/04_Triad.md)
+   * [初学者必学的和弦](01_Basic/05_Simple_Triad.md)

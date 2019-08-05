@@ -21,9 +21,6 @@
 ## 和弦图
 ![](../images/basic/chord.png)
 
-## 初学者必学的和弦
-![](../images/basic/chrod_must_learn.png)
-
 ## 和弦计算
 
 | Major Triad | 音名          | 简谱记号      |

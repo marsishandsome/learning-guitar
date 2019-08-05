@@ -2,9 +2,11 @@
 
 ![](../images/basic/interval_wikipedia.png)
 
-摘自wikipedia: https://en.wikipedia.org/wiki/Interval_(music)
+<a href="https://en.wikipedia.org/wiki/Interval_(music)">摘自wikipedia</a>
 
-![](../../images/guitar/interval_book.png)
+![](../images/basic/interval_book.png)
+
+[摘自《弹指之间》](https://book.douban.com/subject/2076086/)
 
 | 半音数 | Minor/major/perfect | 简称 | 例子 | Augmented/diminished | 简称 | 例子  |
 | ------ | ------------------- | ---- | ---- | -------------------- | ---- | ----- |
@@ -39,6 +41,7 @@
 | 10     |      | G    |
 | 11     | B    |      |
 | 12     | C    | A    |
+
 
 | 差多少半音 | C   | D   | E   | F   | G   | A   | B   | C |
 | ---------- | --- | --- | --- | --- | --- | --- | --- | ----- |
