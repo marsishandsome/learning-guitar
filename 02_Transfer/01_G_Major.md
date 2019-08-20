@@ -7,7 +7,7 @@
 - 4 -> C
 - 5 -> D
 - 6 -> E
-- 7 -> F
+- 7 -> F#
 
 ## G大调第一把位
 ![](../images/transfer/g_major.png)
