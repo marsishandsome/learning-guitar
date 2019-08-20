@@ -9,6 +9,9 @@
 - 6 -> E
 - 7 -> F
 
+## G大调第一把位
+![](../images/transfer/g_major.png)
+
 ## 练习曲
 
 ![](../images/transfer/晴天_1.jpg)
