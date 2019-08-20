@@ -9,3 +9,5 @@
    * [初学者必学的和弦](01_Basic/05_Simple_Triad.md)
    * [节奏](01_Basic/06_Rhythm.md)
    * [封闭和弦](01_Basic/07_Barre_Chord.md)
+* 转调
+   * [转G大调](02_Transfer/01_G_Major.md)
