@@ -25,3 +25,12 @@
 
 ## Do型音阶
 ![](../images/basic/do_on_c.png)
+
+## 连接两个音阶
+![](../images/basic/connect_two_scale.png)
+
+## C大调音阶
+![](../images/basic/c_major_scale.png)
+
+## G大调音阶
+![](../images/basic/g_major_scale.png)
