@@ -1,10 +1,10 @@
 
 # 进阶和弦
 ## 和弦图
-![](../images/basic/chord.png)
+![](../images/chord/chord.png)
 
 ## 和弦汇总
-![](../images/basic/all_triad.png)
+![](../images/chord/all_triad.png)
 
 ## 分割和弦 Slash Chord
 > In music, especially modern popular music a slash chord or slashed chord, also compound chord, is a chord whose bass note or inversion is indicated by the addition of a slash and the letter of the bass note after the root note letter. It does not indicate "or". For example, a C major chord (C) in second inversion is written C/G or C/G bass, which reads "C slash G", "C over G" or "C over a G bass". If E were the bass it would be written C/E or C/E bass (making a major chord in first inversion), which is read "C slash E", "C over E" or C/E bass. Some chords may not otherwise be notated, such as A♭/A. Thus, a slash chord may also indicate the chord form or shape and an additional bass note.
@@ -13,7 +13,7 @@
 
 /From Wikipedia
 
-![](../images/basic/slash_chord.png)
+![](../images/chord/slash_chord.png)
 
 ## 转位和弦 Inversion
 > In music theory, the word inversion has distinct, but related, meanings when applied to intervals, chords, voices (in counterpoint), and melodies. The concept of inversion also plays an important role in musical set theory.
@@ -22,7 +22,7 @@
 
 /From Wikipedia
 
-![](../images/basic/inversion.png)
+![](../images/chord/inversion.png)
 
 
 ## 掛留和弦 Suspended Chord (Suspended 4th Chord /Suspended 2nd Chord)
@@ -30,20 +30,20 @@
 
 /From Wikipedia
 
-![](../images/basic/sus.png)
+![](../images/chord/sus.png)
 
 ## 加九和弦 Added 9th Chord
 > An added ninth chord is a major triad with an added ninth. Thus, Cadd9 consists of C, E, G and D. (The D, which might be called an added second, is two fifths up from the root.) Added ninth chords differ from other ninth chords because the seventh is never included.
 
 /From Wikipedia
 
-![](../images/basic/add9.png)
+![](../images/chord/add9.png)
 
 ## Diminished Triad /Augmented Triad 增三和弦/减三和弦
-![](../images/basic/augment_diminish.png)
+![](../images/chord/augment_diminish.png)
 
 ## 增三和弦
-![](../images/basic/aug.png)
+![](../images/chord/aug.png)
 
 ## 减七和弦
-![](../images/basic/dim.png)
+![](../images/chord/dim.png)

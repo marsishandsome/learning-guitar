@@ -1,19 +1,19 @@
 
 # 基础和弦
 ## Major Triad 大三和弦
-![](../images/basic/major_triad.png)
+![](../images/chord/major_triad.png)
 
 ## minor Triad 小三和弦
-![](../images/basic/minor_triad.png)
+![](../images/chord/minor_triad.png)
 
 ## Major 7 大七和弦
-![](../images/basic/major_seven.png)
+![](../images/chord/major_seven.png)
 
 ## Minor 7 小七和弦
-![](../images/basic/minor_seven.png)
+![](../images/chord/minor_seven.png)
 
 ## Dominant 7 属七和弦
-![](../images/basic/dominant_seven.png)
+![](../images/chord/dominant_seven.png)
 
 ## 和弦计算
 

@@ -1,6 +1,6 @@
 # 初学者必学的和弦
 
-![](../images/basic/chrod_must_learn.png)
+![](../images/chord/chrod_must_learn.png)
 
 | 和弦 | 组成音    | 简谱      | 6弦 | 5弦 | 4弦 | 3弦 | 2弦 | 1弦 |
 | ---- | --------- | --------- | --- | --- | --- | --- | --- | --- |
@@ -18,4 +18,4 @@
 | A7   | A-C#-E-G  | 6-#1-3-5  | E   | A   | E   | G   | C#  | E   |
 | E    | E-G#-B    | 3-#5-7    | E   | B   | E   | G#  | B   | E   |
 | Em   | E-G-B     | 3-5-7     | E   | B   | E   | G   | B   | E   |
-| E7   | E-G#-B-D  | 3-#5-7-2  | E   | B   | D   | G#  | B   | E   | 
+| E7   | E-G#-B-D  | 3-#5-7-2  | E   | B   | D   | G#  | B   | E   |
