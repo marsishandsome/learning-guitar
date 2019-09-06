@@ -13,3 +13,4 @@
    * [封闭和弦](02_Chord/04_Barre_Chord.md)
 * 转调
    * [转G大调](03_Transfer/01_G_Major.md)
+* [资料](99_Links/01_Links.md)
