@@ -1,12 +1,12 @@
 # 计算和弦
 
-| 根音在几弦 | 指型         | Major                                                | Minor                                                |
-| ---------- | ------------ | ---------------------------------------------------- | ---------------------------------------------------- |
-| 6          | E            | ![](../images/calculate_chord/6_major_pattern_e.png) | ![](../images/calculate_chord/6_minor_pattern_e.png) |
-| 5          | A            | ![](../images/calculate_chord/5_major_pattern_a.png) | ![](../images/calculate_chord/5_minor_pattern_a.png) |
-| 5          | C            | ![](../images/calculate_chord/5_major_pattern_c.png) |                                                      |
-| 4          | F            | ![](../images/calculate_chord/4_major_pattern_f.png) | ![](../images/calculate_chord/4_minor_pattern_f.png) |
-| 4          | D            | ![](../images/calculate_chord/4_major_pattern_d.png) | ![](../images/calculate_chord/4_minor_pattern_d.png) |
-| 3          | 简易A        | ![](../images/calculate_chord/3_major.png)           | ![](../images/calculate_chord/3_minor.png)           |
-| 2          | 简易D、简易C | ![](../images/calculate_chord/2_major.png)           | ![](../images/calculate_chord/2_minor.png)           |
-| 1          | 简易F、简易E | ![](../images/calculate_chord/1_major.png)           | ![](../images/calculate_chord/1_minor.png)           |
+| 根音 | 指型         | Major                                                | Minor                                                | Dominant 7                                               | Minor 7                                               | Major 7                                               |
+| ---- | ------------ | ---------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------- |
+| 6    | E            | ![](../images/calculate_chord/6_major_pattern_e.png) | ![](../images/calculate_chord/6_minor_pattern_e.png) | ![](../images/calculate_chord/6_dominant7_pattern_e.png) | ![](../images/calculate_chord/6_minor7_pattern_e.png) | ![](../images/calculate_chord/6_major7_pattern_e.png) |
+| 5    | A            | ![](../images/calculate_chord/5_major_pattern_a.png) | ![](../images/calculate_chord/5_minor_pattern_a.png) | ![](../images/calculate_chord/5_dominant7_pattern_a.png) | ![](../images/calculate_chord/5_minor7_pattern_a.png) | ![](../images/calculate_chord/5_major7_pattern_a.png) |
+| 5    | C            | ![](../images/calculate_chord/5_major_pattern_c.png) |                                                      |                                                          |                                                       |                                                       |
+| 4    | D            | ![](../images/calculate_chord/4_major_pattern_d.png) | ![](../images/calculate_chord/4_minor_pattern_d.png) | ![](../images/calculate_chord/4_dominant7_pattern_d.png) | ![](../images/calculate_chord/4_minor7_pattern_d.png) | ![](../images/calculate_chord/4_major7_pattern_d.png) |
+| 4    | F            | ![](../images/calculate_chord/4_major_pattern_f.png) | ![](../images/calculate_chord/4_minor_pattern_f.png) |                                                          |                                                       |                                                       |
+| 3    | 简易A        | ![](../images/calculate_chord/3_major.png)           | ![](../images/calculate_chord/3_minor.png)           |                                                          |                                                       |                                                       |
+| 2    | 简易D、简易C | ![](../images/calculate_chord/2_major.png)           | ![](../images/calculate_chord/2_minor.png)           |                                                          |                                                       |                                                       |
+| 1    | 简易F、简易E | ![](../images/calculate_chord/1_major.png)           | ![](../images/calculate_chord/1_minor.png)           |                                                          |                                                       |                                                       |
