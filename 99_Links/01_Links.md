@@ -6,3 +6,6 @@
 
 ## 找到所有的和弦
 - [chordfind](http://chordfind.com/)
+
+## 吉他教学视频
+- [YouTube 上有哪些推荐的吉他视频教程？](https://www.zhihu.com/question/21363262)
