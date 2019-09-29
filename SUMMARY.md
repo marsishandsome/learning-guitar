@@ -19,4 +19,7 @@
 * [吉他练习日课表](05_Practice/README.md)
    * 音阶
       * [六度双音练习](05_Practice/01_Scale/01_six_chord.md)
+      * [三度双音练习](05_Practice/01_Scale/02_third_chord.md)
+      * [八度双音练习](05_Practice/01_Scale/03_octave_chord.md)
+      * [自然音阶指型](05_Practice/01_Scale/04_pattern.md)
 * [资料](99_Links/01_Links.md)
