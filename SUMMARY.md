@@ -16,4 +16,7 @@
   * [和弦推算记忆法](03_Calculate/02_Chord.md)
 * 转调
    * [转G大调](04_Transfer/01_G_Major.md)
+* [吉他练习日课表](05_Practice/README.md)
+   * 音阶
+      * [六度双音练习](05_Practice/01_Scale/01_six_chord.md)
 * [资料](99_Links/01_Links.md)
