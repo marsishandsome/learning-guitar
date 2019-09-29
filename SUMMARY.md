@@ -25,7 +25,12 @@
    * 和弦
      * [快速推算封闭和弦](05_Practice/02_Chord/01_Bar_Chord.md)
      * [顺阶三和弦](05_Practice/02_Chord/02_Diatonic_Chord.md)
-     * [延伸和弦](05_Practice/02_Chord/03_Tesion_Chord.md)
+     * [延伸和弦](05_Practice/02_Chord/03_Tension_Chord.md)
+     * [自然泛音](05_Practice/02_Chord/04_Harmonic.md)
+     * [流行歌常用和弦在12个调上的弹法](05_Practice/02_Chord/05_Pop_Song.md)
+     * [搞懂所有现代和弦记号](05_Practice/02_Chord/06_Chord_Name.md)
+     * [C和弦的六种按法](05_Practice/02_Chord/07_C_Chord.md)
+     * [Am和弦的六种按法](05_Practice/02_Chord/08_Am_Chord.md)
    * 节奏
    * 即兴
    * 曲目
