@@ -22,4 +22,11 @@
       * [三度双音练习](05_Practice/01_Scale/02_third_chord.md)
       * [八度双音练习](05_Practice/01_Scale/03_octave_chord.md)
       * [自然音阶指型](05_Practice/01_Scale/04_pattern.md)
+   * 和弦
+     * [快速推算封闭和弦](05_Practice/02_Chord/01_Bar_Chord.md)
+     * [顺阶三和弦](05_Practice/02_Chord/02_Diatonic_Chord.md)
+     * [延伸和弦](05_Practice/02_Chord/03_Tesion_Chord.md)
+   * 节奏
+   * 即兴
+   * 曲目
 * [资料](99_Links/01_Links.md)
