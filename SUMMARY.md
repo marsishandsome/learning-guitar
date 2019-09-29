@@ -31,7 +31,10 @@
      * [搞懂所有现代和弦记号](05_Practice/02_Chord/06_Chord_Name.md)
      * [C和弦的六种按法](05_Practice/02_Chord/07_C_Chord.md)
      * [Am和弦的六种按法](05_Practice/02_Chord/08_Am_Chord.md)
+     * [增减和弦的Triad按法](05_Practice/02_Chord/09_Diminished_Augmented.md)
    * 节奏
+     * [16分音符的六种基本刷法](05_Practice/03_Rhythm/01_16_Beat.md)
+     * [在刷弦节奏中加入32分音符](05_Practice/03_Rhythm/02_32_Beat.md)
    * 即兴
    * 曲目
 * [资料](99_Links/01_Links.md)
