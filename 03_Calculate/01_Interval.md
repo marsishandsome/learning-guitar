@@ -10,6 +10,9 @@
 
 ![](../images/interval/interval_4.png)
 
+![](../images/interval/interval_all_1.png)
+
+![](../images/interval/interval_all_2.png)
 
 ## 六个C和弦
 

@@ -11,6 +11,7 @@
    * [初学者必学的和弦](02_Chord/02_Simple_Triad_Must_Learn.md)
    * [进阶和弦](02_Chord/03_Advanced_Triad.md)
    * [封闭和弦](02_Chord/04_Barre_Chord.md)
+   * [简化和弦](02_Chord/05_Simplify_Chord.md)
 * 音程和弦推算记忆法
   * [音程推算记忆法](03_Calculate/01_Interval.md)
   * [和弦推算记忆法](03_Calculate/02_Chord.md)
