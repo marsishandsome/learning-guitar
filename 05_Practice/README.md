@@ -17,6 +17,8 @@
 - 65 自然音階指型 Do(Ti) 型 https://youtu.be/40oEkfKyyuc
 - 83 自然音階指型Re型 https://youtu.be/tkPh-quvWro
 - 97 Legato大絕招教學 https://youtu.be/_b8FEjp7zEM
+- 106 五聲音階指型壹教學 https://www.youtube.com/watch?v=Bxxm37WG6g0&list=PL7yZwNs7cH5QmdGvL7XtnoQ6VAsDfjBXH&index=129&t=0s
+- 110 用五聲音階突破指板 pentatonic scale tutorial https://www.youtube.com/watch?v=5CT446iisiU&list=PL7yZwNs7cH5QmdGvL7XtnoQ6VAsDfjBXH&index=131&t=0s
 
 ##  和弦
 - 6 國際四和弦加延伸音教學 https://youtu.be/CA-3JwCcMWw
