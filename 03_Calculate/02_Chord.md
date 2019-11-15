@@ -13,5 +13,13 @@
 | 2    | Simple | ![](../i/c/2_maj.png)   | ![](../i/c/2_min.png)   |                        |                          |                          |
 | 1    | Simple | ![](../i/c/1_maj.png)   | ![](../i/c/1_min.png)   |                        |                          |                          |
 
+
+| 根音 | 指型   | minor7-5                  | 增和弦               | 减和弦               |
+| ---- | ------ | ------------------------- | -------------------- | -------------------- |
+| 6    | Simple | ![](../i/s/Xmin7-5_6.png) |                      |                      |
+| 5    | Simple | ![](../i/s/Xmin7-5_5.png) | ![](../i/s/X+_5.png) |                      |
+| 4    | Simple |                           |                      | ![](../i/s/X-_4.png) |
+
+
 ## 参考
 - [guitarrootssystem.com](http://guitarrootssystem.com/)
