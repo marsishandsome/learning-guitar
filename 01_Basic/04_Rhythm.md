@@ -17,3 +17,7 @@
 ![](../images/basic/slow_rock.png)
 
 ![](../images/basic/slow_rock_2.png)
+
+## 练习
+
+![](../images/basic/rhythm_1.png)
