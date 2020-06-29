@@ -1,5 +1,8 @@
 # 资料
 
+## CAGED
+- [How to use the CAGED system to play a solo](https://www.scottpauljohnson.com/caged-pdf)
+
 ## 根据根音找和弦
 - [guitarrootssystem.com](http://guitarrootssystem.com/)
 - [PDF](http://guitarrootssystem.com/wp-content/uploads/2019/02/Guitar-System_file.pdf)
